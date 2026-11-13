@@ -38,12 +38,6 @@ I build practical software products with a focus on **backend APIs, databases, p
 | **[Scalar Scheduler](https://github.com/Nikhilsai-M/Scalar_scheduler)** | Scheduling platform with availability, public booking pages, rescheduling, and email notifications. **[Live demo](https://scalar-scheduler.vercel.app/)** | Next.js, PostgreSQL, Prisma |
 | **[AnimeStream](https://github.com/Nikhilsai-M/anime-hybrid-recommender)** | Anime discovery and personalized recommendations using semantic search and collaborative filtering. **[Live demo](https://anime-hybrid-recommender.vercel.app/)** | React, FastAPI, FAISS, TensorFlow |
 
-### GitHub activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikhilsai-M&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
 ---
 
 <div align="center">
